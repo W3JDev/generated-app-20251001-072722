@@ -1,6 +1,6 @@
 # W3J LLC - Enterprise Technology Consulting Website
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/W3JDev/generated-app-20251001-072722)
 
 A professional, single-page business website for W3J LLC, a technology consulting firm specializing in full-stack development and AI integration. This project serves as a digital storefront, showcasing their expertise with a visually stunning, modern, and corporate design aesthetic.
 
@@ -91,7 +91,7 @@ This will build the project and deploy it to your Cloudflare account.
 
 Alternatively, you can deploy directly from your GitHub repository.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/W3JDev/generated-app-20251001-072722)
 
 ## License
 
